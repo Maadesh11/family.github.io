@@ -1,2 +1,2 @@
-# zomzto.github.io
+# zomato.github.io
 zomato
